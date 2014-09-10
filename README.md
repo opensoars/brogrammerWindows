@@ -2,9 +2,6 @@
 
 Brogrammer is a flat sexy theme. Pushups not included.
 
-![Brogrammer Screenshot](http://i.imgur.com/7EPa8Wm.png)
-![Brogrammer Screenshot](http://i.imgur.com/hXE6jYP.png)
-
 ## Install
 
 ### Via Package Control
@@ -28,3 +25,7 @@ Activate the UI theme and color scheme by modifying your user preferences file, 
   "color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme"
 }
 ```
+
+
+### Augmentation
+Made less distractive, and more flat by [opensoars](https://github.com/opensoars).
